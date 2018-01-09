@@ -1,2 +1,2 @@
 # QuestionTree
-The QuestionTree class creates a game similar to twenty questions.
+ The QuestionTree class creates a game similar to twenty questions. If the user chooses to read in the questions/answers from a file, then the questions and answers will be added to the game. If not, then the user is asked if an object is his/her guess. If the object is not the what the user guessed, then the user is asked to add a new question and their object to the game. Once the user is done playing, all of the newly added questions and answers provided by the user will be read back into the text file to expand the number of questions and answers accessible to the game.
